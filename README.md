@@ -14,9 +14,9 @@
 ![Top Langs]https://github-readme-stats-tkrz.vercel.app/api/top-langs/?username=tekkerzzrubot&hide=php&theme=tokyonight)
 -->
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=tekkerzzrubot&theme=calm">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=tekkerzzrubot&count_private=true&show_icons=true&theme=calm" />
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=tekkerzzrubot&hide=php&theme=calm">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tekkerzzrubot&hide=php&theme=calm" />
+<a href="https://github-readme-stats-tkrz.vercel.app/api?username=tekkerzzrubot&theme=calm">
+  <img  align="left" src="https://github-readme-stats-tkrz.vercel.app/api?username=tekkerzzrubot&count_private=true&show_icons=true&theme=calm" />
+<a href="https://github-readme-stats-tkrz.vercel.app/api/top-langs/?username=tekkerzzrubot&hide=php&theme=calm">
+  <img align="left" src="https://github-readme-stats-tkrz.vercel.app/api/top-langs/?username=tekkerzzrubot&hide=php&theme=calm" />
 </a>
 </div>
