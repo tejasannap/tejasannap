@@ -1,5 +1,5 @@
 #### Hello there! 
-![](https://visitor-badge.laobi.icu/badge?page_id=tekkerzzrubot.tekkerzzrubot) [![Github](https://img.shields.io/github/followers/tekkerzzrubot?label=Followers&logo=Github)](https://github.com/tekkerzzrubot)
+![](https://visitor-badge.laobi.icu/badge?page_id=tejasannap.tejasannap) [![Github](https://img.shields.io/github/followers/tejasannap?label=Followers&logo=Github)](https://github.com/tejasannap)
 
 
 
