@@ -12,15 +12,5 @@ public var tejasannap: [String: String] {
 }
         
 ```
-
-<!--
-![GitHub stats](https://github-readme-stats-tkrz.vercel.app/api?username=tejasant&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs]https://github-readme-stats-tkrz.vercel.app/api/top-langs/?username=tejasannap&hide=php&theme=tokyonight)
--->
-<div>
-<a href="https://github-readme-stats-tkrz.vercel.app/api?username=tejasannap&theme=calm">
-  <img  align="left" src="https://github-readme-stats-tkrz.vercel.app/api?username=tejasannap&count_private=true&show_icons=true&theme=calm" />
-<a href="https://github-readme-stats-tkrz.vercel.app/api/top-langs/?username=tejasannap&hide=php&theme=calm">
-  <img align="left" src="https://github-readme-stats-tkrz.vercel.app/api/top-langs/?username=tejasannap&hide=php&theme=calm" />
-</a>
-</div>
+![](https://raw.githubusercontent.com/tejasannap/gh-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/tejasannap/gh-stats/master/generated/languages.svg#gh-dark-mode-only)
