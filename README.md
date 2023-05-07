@@ -6,7 +6,7 @@
 [![Python: tejasannap](https://img.shields.io/badge/python-ffd343.svg?style=for-the-badge&logo=python&logoColor=ffd343&labelColor=ffffff&link=https://github.com/tejasannap)](https://github.com/tejasannap)
 
 ```swift
-public var tejasannap: [String: String] {
+public var tejasannap: [String: String] = {
   "Languages": "Swift, Python, Powershell/Batch, Shell."
   "Current Projects": "Institution - Modern Grade Tracking"
 }
