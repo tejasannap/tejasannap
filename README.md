@@ -8,7 +8,7 @@
 ```swift
 public var tejasannap: [String: String] = {
   "Languages": "Swift, Python, Powershell/Batch, Shell."
-  "Current Projects": "Institution - Modern Grade Tracking"
+  "Current Project": "GradePoint - Modern Grade Tracking"
 }
         
 ```
