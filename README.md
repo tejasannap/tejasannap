@@ -4,10 +4,12 @@
 [![Powershell: tejasannap](https://img.shields.io/badge/powershell-012456.svg?style=for-the-badge&logo=powershell&logoColor=012456&labelColor=ffffff&link=https://github.com/tejasannap)](https://github.com/tejasannap)
 [![Swift: tejasannap](https://img.shields.io/badge/swift-f05138.svg?style=for-the-badge&logo=swift&logoColor=f05138&labelColor=ffffff&link=https://github.com/tejasannap)](https://github.com/tejasannap)
 [![Python: tejasannap](https://img.shields.io/badge/python-ffd343.svg?style=for-the-badge&logo=python&logoColor=ffd343&labelColor=ffffff&link=https://github.com/tejasannap)](https://github.com/tejasannap)
+[![Java: tejasannap](https://img.shields.io/badge/java-5382a1.svg?style=for-the-badge&logo=oracle&logoColor=5382a1&labelColor=ffffff&link=https://github.com/tejasannap)](https://github.com/tejasannap)
+
 
 ```swift
 public var tejasannap: [String: String] = {
-  "Languages": "Swift, Python, Powershell/Batch, Shell."
+  "Languages": "Swift, Python, Java, Powershell/Batch, Shell."
   "Current Project": "GradePoint - Modern Grade Tracking"
 }
         
