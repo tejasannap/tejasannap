@@ -10,7 +10,7 @@
 ```swift
 public var tejasannap: [String: String] = {
   "Languages": "Swift, Python, Java, Powershell/Batch, Shell."
-  "Current Project": "GradePoint - Modern Grade Tracking"
+  "Current Project": "Menucord - A Discord menu bar addon"
 }
         
 ```
